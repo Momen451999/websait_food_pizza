@@ -1,0 +1,30 @@
+.about-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    color: #000000;
+}
+
+.about-container h4 {
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.about-container p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+.about-container .legendary-recipe {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.about-container .ghostly-pizzeria {
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 20px;
+}

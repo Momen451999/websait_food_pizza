@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "checkJS": true,
+        "jsx": "react-jsx",
+        "beseUrl": "src",
+        "resolveJesonModule": true
+    },
+    "include": [
+        "src"
+    ],
+    "exclude": [
+        "node-modules",
+        "build"
+    ]
+}

@@ -1,0 +1,37 @@
+.cart-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .cart-title {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .cart-item {
+    padding: 12px;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .cart-item:last-child {
+    border-bottom: none;
+  }
+  
+  .cart-item-title {
+    font-weight: bold;
+  }
+  
+  .cart-item-price {
+    color: #888;
+  }
+  
+  .empty-cart-message {
+    text-align: center;
+    color: #888;
+  }
+  
