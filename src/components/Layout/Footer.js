@@ -5,7 +5,7 @@ import '../../styles/Footer.css';
 
 const Footer = () => {
     return (
-        <Box className="footer" sx={{ backgroundColor: 'black', color: 'goldenrod', p: 3, mt: 'auto', textAlign: 'center', width: '100%',  }}>
+        <Box className="footer" sx={{ backgroundColor: 'black', color: 'goldenrod', p: 3, mt: 'auto', textAlign: 'center', width: '100%' }}>
             <Typography variant="body1" sx={{ mb: 2 }}>
                 &copy; 2024 Pizza. All Rights Reserved.
             </Typography>
@@ -34,4 +34,5 @@ const Footer = () => {
 };
 
 export default Footer;
+
 

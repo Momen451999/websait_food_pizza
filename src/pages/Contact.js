@@ -8,8 +8,8 @@ import InstagramIcon from '@mui/icons-material/Instagram';
 
 function Contact() {
     return (
-        <Box sx={{ marginTop: '80px', marginBottom:'64px' }}>
-            <Typography variant="h4" sx={{textAlign: 'center'}}>Contact My Restaurant</Typography>
+        <Box sx={{ marginTop: '80px', marginBottom: '64px', marginLeft: "16px", marginRight: "16px" }}>
+            <Typography variant="h4" sx={{ textAlign: 'center' }}>Contact My Restaurant</Typography>
             <p>
                 A daring pizza heist. A group of mischievous teenagers, fueled by hunger and adventure, snuck into a famous pizzeria after hours. They made off with piping hot pizzas straight from the oven, leaving behind only a trail of laughter and tomato sauce.
 

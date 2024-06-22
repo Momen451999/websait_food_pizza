@@ -11,7 +11,11 @@
     align-items: center;
     justify-content: flex-start; 
     text-align: left; 
+    overflow-x: hidden; /* إلغاء السكرول الأفقي */
+    overflow-y: hidden; /* إلغاء السكرول الرأسي */
 }
+
+
 
 .headerContainer {
     width: auto;
@@ -51,7 +55,7 @@
 .order-button:hover {
     background-color: rgb(193, 143, 15);
     cursor: pointer;
-    transition: 0.3s ease-in-out;
+    transition: 0.2s ease-in-out;
 }
 
 .slick-prev:before,
